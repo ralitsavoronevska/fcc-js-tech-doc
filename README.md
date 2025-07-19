@@ -14,7 +14,7 @@
 - https://web.dev/patterns/theming/theme-switch/#toggle-theme-js
 - :octocat: https://github.com/
 - https://trigger.dev/
-- https://codepen.io/
+- 📝 https://codepen.io/
 - https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 Made with 💗! 
