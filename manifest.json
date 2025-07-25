@@ -1,0 +1,15 @@
+{
+  "name": "FCC Product Landing Page",
+  "short_name": "ProductLanding",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#ffe32d",
+  "icons": [
+    {
+      "src": "img/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "fcc-tech-doc-page",
+  "version": "1.0.0",
+  "description": "FCC: Build a Technical Documentation Page",
+  "main": "index.js",
+  "repo": "http://ralitsataylor.github.io/fcc-tech-doc-page/",
+  "scripts": {
+    "scss": "sass --watch --style=compressed --no-source-map scss/:dist/css/",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "SCSS",
+    "Responsiveness",
+    "Transitions",
+    "Animations",
+    "Flex Layout",
+    "Vanilla JS"
+  ],
+  "author": "Ralitsa Taylor",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "purgecss": "^7.0.2",
+    "sass": "^1.89.2"
+  }
+}

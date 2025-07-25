@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ralitsataylor.github.io/fcc-tech-doc-page/sitemap.xml
